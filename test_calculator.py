@@ -1,3 +1,7 @@
+# https://github.com/hayden-lakh/lab11-HL-TZ
+# Partner 1: Hayden Lakhiani
+# Partner 2: Tianxiang Zhai
+
 import unittest
 from calculator import *
 

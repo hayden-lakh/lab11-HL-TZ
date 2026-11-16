@@ -1,10 +1,7 @@
+# https://github.com/hayden-lakh/lab11-HL-TZ
+# Partner 1: Hayden Lakhiani
+# Partner 2: Tianxiang Zhai
 
-"""
-calculator.py
-- Defines functions used to create a simple calculator
-
-One function per operation, in order.
-"""
 import math
 
 def add(a, b):
